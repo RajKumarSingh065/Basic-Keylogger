@@ -1,0 +1,4 @@
+[Key.shift]Hello 
+[Key.shift]How ar eyou
+n[Key.shift]Ot fine
+[Key.backspace][Key.backspace][Key.backspace][Key.backspace]
